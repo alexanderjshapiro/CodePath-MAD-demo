@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FAE3862123CF8A8000ABFF99 /* CodePathDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodePathDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAE3862123CF8A8000ABFF99 /* CodePath Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CodePath Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE3862423CF8A8000ABFF99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAE3862623CF8A8000ABFF99 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FAE3862823CF8A8000ABFF99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		FAE3862223CF8A8000ABFF99 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FAE3862123CF8A8000ABFF99 /* CodePathDemo.app */,
+				FAE3862123CF8A8000ABFF99 /* CodePath Demo.app */,
 				FAE3863723CF8A8500ABFF99 /* CodePathDemoTests.xctest */,
 				FAE3864223CF8A8500ABFF99 /* CodePathDemoUITests.xctest */,
 			);
@@ -145,7 +145,7 @@
 			);
 			name = CodePathDemo;
 			productName = CodePathDemo;
-			productReference = FAE3862123CF8A8000ABFF99 /* CodePathDemo.app */;
+			productReference = FAE3862123CF8A8000ABFF99 /* CodePath Demo.app */;
 			productType = "com.apple.product-type.application";
 		};
 		FAE3863623CF8A8500ABFF99 /* CodePathDemoTests */ = {
@@ -442,7 +442,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.alexanderjshapiro.CodePathDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CodePath Demo";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -460,7 +460,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.alexanderjshapiro.CodePathDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CodePath Demo";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
