@@ -3,10 +3,6 @@
 ### App Description
 I got a hands-on preview of the Mobile App Design Workshop Series by diving in and building my first iOS app! I was surprised at just how easy it is to build a working prototype app and they walked me through each step in a series of code-along videos.
 
-### App Walk-though
-
-<img src="https://alexanderjshapiro.com/src/CodePath-Demo.gif" width=200><br>
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User sees custom background color.
